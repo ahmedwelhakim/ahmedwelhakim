@@ -45,8 +45,20 @@
 
 ---
 ## :fire: My Stats :
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwelhakim&theme=dark&hide_border=true" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedwelhakim&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=25" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwelhakim&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=25" />
+<!--
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedwelhakim&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+</div>
+-->
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwelhakim&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</div>
+
+
 
 
