@@ -56,7 +56,7 @@
 -->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwelhakim&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwelhakim&exclude_repo=Traffic-light-controller-with-tiva-c-project&langs_count=10&layout=compact&hide=hack&theme=vision-friendly-dark&hide_border=true" />
 </div>
 
 
