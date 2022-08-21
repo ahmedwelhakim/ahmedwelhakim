@@ -14,7 +14,7 @@
 ## :man_technologist: About Me
 - :mortar_board: I’m Ahmed Elhakim, I pursued my bachelor's degree in Computer Engineering at Ain Shams university.
 
-- :seedling: I'm really enthuasiastic about learning new technologies, and improving my skills, during the five years at university, I learned a lot if things and worked in many projects in different fields as Web development, Android development, Embedded System, and Embedded Linux.
+- :seedling: I'm really enthuasiastic about learning new technologies, and improving my skills, during the five years at university, I learned a lot of things and worked in many projects in different fields as Web development, Android development, Embedded System, and Embedded Linux.
 
 - :musical_keyboard: Beside the Computer Engineering field, I'm also pianist and music composer. I won :1st_place_medal: first place for best music composition at musical contest called (ابداع) that is between all universities in Egypt.
 
@@ -26,7 +26,9 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
