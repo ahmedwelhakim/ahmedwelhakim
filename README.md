@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-elhakim-8a599217b">
+  <a href="https://www.linkedin.com/in/ahmedwelhakim">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" />
   </a>
 </div>
@@ -48,18 +48,6 @@ I care about:
 ### Other Experience
 - Kotlin, Java, Python
 - Embedded systems & Linux (academic background)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwelhakim&theme=dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwelhakim&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</div>
 
 ---
 
